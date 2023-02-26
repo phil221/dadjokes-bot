@@ -1,1 +1,0 @@
-Just waiting for Elon to let me into that sweet sweet world of Twitter developer access
