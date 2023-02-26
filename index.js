@@ -5,8 +5,6 @@ import cron from "cron";
 
 dotenv.config();
 
-// this api is not very good. gonna make my own
-
 const url = 'https://dad-jokes.p.rapidapi.com/random/joke';
 const options = {
   method: 'GET',
